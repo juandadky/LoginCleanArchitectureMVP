@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginCleanArchitectureMVP</string>
+    <string name="clean_firebase_login">CLEAN FIREBASE LOGIN</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirma_password">Confirma Password</string>
+    <string name="no_tiene_cuenta_aun_registrate">¿No tiene cuenta aun? Registrate</string>
+</resources>

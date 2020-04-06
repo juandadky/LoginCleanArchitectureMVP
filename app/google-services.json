@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "337851518724",
+    "firebase_url": "https://logincleanarchitecturemvp.firebaseio.com",
+    "project_id": "logincleanarchitecturemvp",
+    "storage_bucket": "logincleanarchitecturemvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337851518724:android:0e239415c7faabe1678a51",
+        "android_client_info": {
+          "package_name": "com.dadky.logincleanarchitecturemvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337851518724-odnfqc5ovnjkavf9ogknnvqmue6gc70c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChg-DFUKgeDMVHEur5_iVnSNILaK3Y0NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337851518724-odnfqc5ovnjkavf9ogknnvqmue6gc70c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
